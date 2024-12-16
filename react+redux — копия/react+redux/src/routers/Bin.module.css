@@ -1,0 +1,45 @@
+.body {
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+
+}
+
+.logo {
+    margin: 0;
+    padding-top: 55px;
+}
+
+.logo2 {
+    margin: 0;
+    padding-top: 80px;
+
+}
+
+.div_for_opisanie {
+   
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.opisanie {
+    width: 1000px;
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.593);
+}
+
+
+.bcskt {
+    display: flex;
+    justify-content : center;
+}
+
+.bog {
+    color: white;
+    font-size: 70px;
+}

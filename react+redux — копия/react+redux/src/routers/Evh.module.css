@@ -1,0 +1,108 @@
+.body_dean {
+    background-repeat: no-repeat;
+    background-image: url('./images/Evgback.png');
+}
+
+.body {
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+
+}
+
+.logo {
+    margin: 0;
+    padding-top: 55px;
+}
+
+.logo2 {
+    margin: 0;
+    padding-top: 80px;
+
+}
+
+
+.div_for_opisanie {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.opisanie {
+    width: 1000px;
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.593);
+}
+
+.div_for_brends {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.brends {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+
+.links {
+    margin: 0;
+    gap: 120px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.logo_brend {
+    display: flex;
+
+}
+
+
+.logo_dean_in_dean {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Deanguitars {
+    text-align: center;
+}
+
+
+
+.Deanguitars_txt {
+    font-size: 50px;
+    color: white;
+}
+
+
+.Dime {
+    display: flex;
+    justify-content: center;
+}
+
+
+.back_back {
+    display: flex;
+    justify-content: space-around;
+    
+ 
+}
+
+
+
+
+
+.Name_goods {
+    margin-top: -20px;
+    font-size: 40px;
+    color: white;
+}

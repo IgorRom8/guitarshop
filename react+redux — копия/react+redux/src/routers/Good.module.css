@@ -1,0 +1,93 @@
+.goods_body {
+    background-repeat: no-repeat;
+    background-image: url('./images/dean_backfront.png');
+}
+
+.body {
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+
+}
+
+.logo {
+    margin: 0;
+    padding-top: 55px;
+}
+
+.logo2 {
+    margin: 0;
+    padding-top: 80px;
+
+}
+
+.name_goods {
+    text-align: center;
+}
+
+
+.name {
+
+    font-size: 40px;
+    color: white;
+}
+
+.ots {
+    display: flex;
+    justify-content: center;
+}
+
+.img_good {
+    width: 600px;
+}
+
+
+.opisanie {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+.white_backplayte {
+    width: 560px;
+    height: 620px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.txt_good {
+    font-size: 35px;
+    padding-left: 40px;
+}
+
+
+.txt_good1 {
+    font-size: 25px;
+    padding-left: 40px;
+}
+
+.txt_good2 {
+    font-size: 40px;
+    padding-left: 40px;
+}
+
+.ebanaya_knopka {
+    display: flex;
+    justify-content: center;
+}
+
+
+.btn_order {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    border: none;
+}
